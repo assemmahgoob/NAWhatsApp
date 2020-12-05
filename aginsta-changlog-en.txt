@@ -7,3 +7,5 @@ Version 20. Changelog:
 >Fixed Google translate
 >Another black theme fixes
 >Translations updated
+
+
